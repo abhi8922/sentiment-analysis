@@ -1,0 +1,8 @@
+Age,Gender,Language,Opinion,Sentiment
+35,Male,English,Must needed for the daily needs,Neutral
+32,Male,English,The price can be better,Neutral
+29,Female,English,the product is useful,Neutral
+33,Female,English,Love the product,Positive
+25,Male,English,Cant say weather it is useful or not,Neutral
+33,Male,English,I loved the product,Positive
+29,Male,English,I hate the product,Negative
